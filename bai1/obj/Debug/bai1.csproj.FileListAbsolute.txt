@@ -1,0 +1,249 @@
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\bai1.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\bai1.pdb
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Antlr3.Runtime.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.AspNet.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.Core.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OAuth.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OpenId.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\EntityFramework.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Newtonsoft.Json.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Net.Http.Formatting.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Helpers.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Http.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Http.WebHost.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Mvc.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Optimization.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Razor.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.Deployment.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.Razor.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\WebGrease.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\WebMatrix.Data.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\WebMatrix.WebData.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\EntityFramework.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Newtonsoft.Json.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Net.Http.Formatting.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Helpers.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Http.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Http.WebHost.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Mvc.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.Razor.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.Deployment.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\System.Web.WebPages.Razor.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\WebMatrix.Data.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\WebMatrix.WebData.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.AspNet.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.Core.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OAuth.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OpenId.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\obj\Debug\bai1.dll
+c:\users\acer\documents\visual studio 2012\Projects\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\admin\Desktop\bai1\bai1\bin\bai1.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\bai1.pdb
+C:\Users\admin\Desktop\bai1\bai1\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\EntityFramework.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\WebGrease.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\bai1\bai1\bin\EntityFramework.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Desktop\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\bai1\bai1\obj\Debug\bai1.dll
+C:\Users\admin\Desktop\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\ACER\Desktop\bai1\bai1\bin\bai1.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\bai1.pdb
+C:\Users\ACER\Desktop\bai1\bai1\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.Core.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Net.Http.Formatting.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Http.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Http.WebHost.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\WebGrease.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\WebMatrix.Data.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\WebMatrix.WebData.dll
+C:\Users\ACER\Desktop\bai1\bai1\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Net.Http.Formatting.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Http.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Http.WebHost.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\WebMatrix.Data.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\WebMatrix.WebData.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.Core.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ACER\Desktop\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ACER\Desktop\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\bai1\bai1\obj\Debug\bai1.dll
+C:\Users\ACER\Desktop\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.dll.config
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.pdb
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Antlr3.Runtime.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\EntityFramework.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Helpers.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Mvc.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Optimization.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Razor.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\WebGrease.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.Data.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.WebData.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\EntityFramework.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Helpers.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Mvc.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Razor.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.Data.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.WebData.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.dll
+C:\Users\PC\Downloads\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.dll.config
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\bai1.pdb
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Antlr3.Runtime.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\EntityFramework.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Helpers.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Mvc.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Optimization.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Razor.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\WebGrease.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.Data.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.WebData.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\EntityFramework.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Newtonsoft.Json.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Helpers.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Mvc.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.Razor.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.Data.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\WebMatrix.WebData.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.dll
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\PC\Downloads\before 20-11\bai1-20171111T114735Z-001\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,59 @@
+﻿@model bai1.Models.CartModel
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using bai1.Models;
+
+<h1><b>Cart</b></h1>
+
+<table cellpadding="2" cellspacing="2" border="1" >
+    
+        <tr>
+            <th><font size="6em">Option</font></th>
+            <th><font size="6em">ID</font></th>
+            <th><font size="6em">Name</font></th>
+            <th><font size="6em">Price</font></th>
+            <th><font size="6em">Quantity</font></th>
+            <th><font size="6em">Sub Total</font></th>
+        </tr>
+        @{ 
+            long s = 0;
+        }
+        @foreach (Item item in (List<Item>)Session["cart"])
+        {
+            
+            s = s + (long)item.Sanpham.Gia * (long)item.Quantity;
+            <tr>
+                <th><font size="6em">@Html.ActionLink("Delete","Delete","ShoppingCart",new { id=item.Sanpham.MaSP},null)</font></th>
+                <th><font size="6em">@item.Sanpham.MaSP</font></th>
+                <th><font size="6em">@item.Sanpham.TenSP</font></th>
+                <th><font size="6em">@item.Sanpham.Gia</font></th>
+                <th><font size="6em">@item.Quantity</font></th>
+                <th><font size="6em">@(item.Sanpham.Gia * item.Quantity)</font></th>
+            </tr>
+        }
+    <tr>
+        <td align="right" colspan="5"><font size="6em"><b>Sum</b></font></td>
+        <td><font size="6em"><b>@s</b></font></td>
+    </tr>
+</table>
+<br/>
+<div class=" login-right">
+ @using (Html.BeginForm())
+ {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+        <div>
+            <span>Address<label>*</label></span>
+            <div class="editor-field">
+                @Html.TextBoxFor(model => model.DiaChi)
+                @Html.ValidationMessageFor(model => model.DiaChi)
+            </div>
+        </div>
+        <input type="submit" value="SUBMIT">
+ }
+</div>
+<br/>
+@Html.ActionLink("Continue Shopping", "Index", "Home")

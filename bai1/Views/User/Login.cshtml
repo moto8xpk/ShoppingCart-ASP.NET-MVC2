@@ -1,0 +1,50 @@
+﻿@model bai1.Models.LoginModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm("Login","User",FormMethod.Post)) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    if (@ViewBag.Message!=null)
+    {
+        <div style="border:1px solid red">
+            @ViewBag.Message
+        </div>
+    }
+    <fieldset>
+        <legend>LoginModel</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TenND)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TenND)
+            @Html.ValidationMessageFor(model => model.TenND)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MatKhau)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.MatKhau)
+            @Html.ValidationMessageFor(model => model.MatKhau)
+        </div>
+
+        <p>
+            <input type="submit" value="Login" />
+        </p>
+    </fieldset>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@*@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}*@

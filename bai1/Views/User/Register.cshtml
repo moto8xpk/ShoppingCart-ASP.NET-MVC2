@@ -1,0 +1,65 @@
+﻿@model bai1.Models.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Register</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>RegisterModel</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TenND)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.TenND)
+            @Html.ValidationMessageFor(model => model.TenND)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.MatKhau)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.MatKhau)
+            @Html.ValidationMessageFor(model => model.MatKhau)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SoDienThoai)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.SoDienThoai)
+            @Html.ValidationMessageFor(model => model.SoDienThoai)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DiaChi)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.DiaChi)
+            @Html.ValidationMessageFor(model => model.DiaChi)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+@*@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}*@

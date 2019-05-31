@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WEBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DanhMuc">
+    <Key>
+      <PropertyRef Name="MaDM" />
+    </Key>
+    <Property Name="MaDM" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Ten" Type="nchar" MaxLength="15" />
+    <Property Name="MoTa" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="NgayLap" Type="datetime" />
+    <Property Name="MaND" Type="bigint" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="MaHD" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NguoiDung">
+    <Key>
+      <PropertyRef Name="MaND" />
+    </Key>
+    <Property Name="MaND" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenND" Type="nvarchar" MaxLength="30" />
+    <Property Name="MatKhau" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nchar" MaxLength="30" />
+    <Property Name="SoDienThoai" Type="nchar" MaxLength="10" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenSP" Type="nvarchar" MaxLength="30" />
+    <Property Name="Gia" Type="bigint" />
+    <Property Name="MoTa" Type="nchar" MaxLength="100" />
+    <Property Name="XuatXu" Type="nvarchar" MaxLength="100" />
+    <Property Name="MaDM" Type="nchar" MaxLength="10" />
+    <Property Name="HinhAnh" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ThongTinHoaDon">
+    <Key>
+      <PropertyRef Name="MaTTHD" />
+    </Key>
+    <Property Name="MaSP" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="Gia" Type="bigint" />
+    <Property Name="MaHD" Type="bigint" Nullable="false" />
+    <Property Name="MaTTHD" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__ThongTinHo__MaHD__49C3F6B7">
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="1" />
+    <End Role="ThongTinHoaDon" Type="Self.ThongTinHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="ThongTinHoaDon">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HoaDon_NguoiDung">
+    <End Role="NguoiDung" Type="Self.NguoiDung" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDung">
+        <PropertyRef Name="MaND" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MaND" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SanPham_DanhMuc">
+    <End Role="DanhMuc" Type="Self.DanhMuc" Multiplicity="0..1" />
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DanhMuc">
+        <PropertyRef Name="MaDM" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MaDM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ThongTinHoaDon_SanPham">
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
+    <End Role="ThongTinHoaDon" Type="Self.ThongTinHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ThongTinHoaDon">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WEBModelStoreContainer">
+    <EntitySet Name="DanhMuc" EntityType="Self.DanhMuc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HoaDon" EntityType="Self.HoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NguoiDung" EntityType="Self.NguoiDung" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SanPham" EntityType="Self.SanPham" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ThongTinHoaDon" EntityType="Self.ThongTinHoaDon" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ThongTinHo__MaHD__49C3F6B7" Association="Self.FK__ThongTinHo__MaHD__49C3F6B7">
+      <End Role="HoaDon" EntitySet="HoaDon" />
+      <End Role="ThongTinHoaDon" EntitySet="ThongTinHoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HoaDon_NguoiDung" Association="Self.FK_HoaDon_NguoiDung">
+      <End Role="NguoiDung" EntitySet="NguoiDung" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SanPham_DanhMuc" Association="Self.FK_SanPham_DanhMuc">
+      <End Role="DanhMuc" EntitySet="DanhMuc" />
+      <End Role="SanPham" EntitySet="SanPham" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ThongTinHoaDon_SanPham" Association="Self.FK_ThongTinHoaDon_SanPham">
+      <End Role="SanPham" EntitySet="SanPham" />
+      <End Role="ThongTinHoaDon" EntitySet="ThongTinHoaDon" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

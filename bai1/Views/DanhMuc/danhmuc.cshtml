@@ -1,0 +1,12 @@
+﻿@model List<bai1.Models.DanhMuc>
+
+<ul class="menu">
+    <ul class="kid-menu">
+        @for (int i = 0; i < Model.Count(); i++)
+        {
+            var tmp = "<li><a href='" + Url.Action("Detail", "DanhMuc", new { id = Model[i].MaDM }) + "'>" + Model[i].Ten + "</a></li>";
+
+            @Html.Raw(tmp)
+        }
+    </ul>
+</ul>

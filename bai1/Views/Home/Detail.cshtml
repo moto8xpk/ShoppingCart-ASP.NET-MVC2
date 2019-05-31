@@ -1,0 +1,47 @@
+﻿@model List<bai1.Models.SanPham>
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@foreach (var n in Model)
+{
+<h2>Detail</h2>
+    <div class="single_grid">
+        <div class="grid images_3_of_2">
+            <ul id="etalage" class="etalage" style="display: block; width: 302px; height: 535px;">
+                <li class="etalage_thumb thumb_1 etalage_thumb_active" style="display: list-item; background-image: none; opacity: 1;">
+                    <a href="optionallink.html">
+                        <img class="etalage_thumb_image" src="@Url.Content(n.HinhAnh)" style="display: inline; width: 300px; height: 400px; opacity: 1;">
+
+                    </a>
+                </li>
+               </ul>
+            <div class="clearfix"> </div>
+        </div>
+        <div class="desc1 span_3_of_2">
+
+
+            <h4>@n.TenSP</h4>
+            <div class="cart-b">
+                <div class="left-n ">@n.Gia</div>
+                <a class="now-get get-cart-in" href="#">ADD TO CART</a>
+                <div class="clearfix"></div>
+            </div>
+            <p>@n.MoTa</p>
+            <div class="share">
+                <h5>Share Product :</h5>
+                <ul class="share_nav">
+                    <li><a href="#"><img src="images/facebook.png" title="facebook"></a></li>
+                    <li><a href="#"><img src="images/twitter.png" title="Twiiter"></a></li>
+                    <li><a href="#"><img src="images/rss.png" title="Rss"></a></li>
+                    <li><a href="#"><img src="images/gpluse.png" title="Google+"></a></li>
+                </ul>
+            </div>
+
+
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+
+
+}

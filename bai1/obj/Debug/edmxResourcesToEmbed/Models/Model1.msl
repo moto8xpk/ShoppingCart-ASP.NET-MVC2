@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WEBModelStoreContainer" CdmEntityContainer="WEBEntities1">
+    <EntitySetMapping Name="DanhMucs">
+      <EntityTypeMapping TypeName="WEBModel.DanhMuc">
+        <MappingFragment StoreEntitySet="DanhMuc">
+          <ScalarProperty Name="MaDM" ColumnName="MaDM" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HoaDons">
+      <EntityTypeMapping TypeName="WEBModel.HoaDon">
+        <MappingFragment StoreEntitySet="HoaDon">
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="MaND" ColumnName="MaND" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NguoiDungs">
+      <EntityTypeMapping TypeName="WEBModel.NguoiDung">
+        <MappingFragment StoreEntitySet="NguoiDung">
+          <ScalarProperty Name="MaND" ColumnName="MaND" />
+          <ScalarProperty Name="TenND" ColumnName="TenND" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanPhams">
+      <EntityTypeMapping TypeName="WEBModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="XuatXu" ColumnName="XuatXu" />
+          <ScalarProperty Name="MaDM" ColumnName="MaDM" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="WEBModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThongTinHoaDons">
+      <EntityTypeMapping TypeName="WEBModel.ThongTinHoaDon">
+        <MappingFragment StoreEntitySet="ThongTinHoaDon">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaTTHD" ColumnName="MaTTHD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

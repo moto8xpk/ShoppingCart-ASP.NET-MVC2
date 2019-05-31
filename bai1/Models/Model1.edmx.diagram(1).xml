@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="afa1b86ef5a043889520159471137b29" Name="Diagram1">
+        <EntityTypeShape EntityType="WEBModel.DanhMuc" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="WEBModel.HoaDon" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="WEBModel.NguoiDung" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="WEBModel.SanPham" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WEBModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WEBModel.ThongTinHoaDon" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="WEBModel.FK_SanPham_DanhMuc" ManuallyRouted="false" />
+        <AssociationConnector Association="WEBModel.FK__ThongTinHo__MaHD__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="WEBModel.FK_HoaDon_NguoiDung" ManuallyRouted="false" />
+        <AssociationConnector Association="WEBModel.FK_ThongTinHoaDon_SanPham" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
